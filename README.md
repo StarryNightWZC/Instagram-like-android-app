@@ -3,11 +3,11 @@ Individual project from course "Creative Mobile Applications". The goal of this 
 
 <table>
  <tr>
-   <td><img src="imgs/login.png" width=270 height=480></td>
-   <td><img src="imgs/profile.png" width=270 height=480></td>
+   <td><img src="imgs/login.png" width=270 height=555></td>
+   <td><img src="imgs/profile.png" width=270 height=555></td>
  </tr>
  <tr>
-   <td><img src="imgs/comment.png" width=270 height=480></td>
-   <td><img src="imgs/post.png" width=270 height=480></td>
+   <td><img src="imgs/comment.png" width=270 height=555></td>
+   <td><img src="imgs/post.png" width=270 height=555></td>
  </tr>
 </table>
